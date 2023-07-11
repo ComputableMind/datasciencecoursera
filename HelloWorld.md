@@ -1,15 +1,2 @@
----
-title: "HelloWorld.md"
-author: "ComputableMind"
-date: "`r Sys.Date()`"
-output:
-  pdf_document: default
-  html_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## This is a markdown file
 
